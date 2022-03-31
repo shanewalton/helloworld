@@ -1,0 +1,3 @@
+[submodule "accurev-scm-plugin"]
+	path = accurev-scm-plugin
+	url = https://github.com/moegwsa/accurev-scm-plugin
